@@ -1,0 +1,4 @@
+[server]
+enableCORS = false
+enableStaticServing = true
+staticDir = "fue_research_project_admin_part/images_in_doc"
